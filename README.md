@@ -1,2 +1,2 @@
-# angstrom
+# Å
 very small projects
